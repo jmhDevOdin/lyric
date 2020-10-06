@@ -8,7 +8,13 @@ Trello board at:
 
 ## Screenshot of app
 
+![alt text](/images/pic.png)
+
 ## authentication
 
+![alt text](/images/pic.png)
+
 ## Trello Board
+
+![alt text](/images/pic.png)
 
