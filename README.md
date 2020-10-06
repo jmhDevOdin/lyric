@@ -8,7 +8,7 @@ Trello board at: https://trello.com/b/b3Et4Gco/lyric
 
 ## Screenshot of app
 
-![alt text](/images/app.png)
+![alt text](/images/dashboard.png)
 
 ## Login
 
